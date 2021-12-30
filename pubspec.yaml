@@ -41,3 +41,6 @@ flutter:
           weight: 800
         - asset: assets/fonts/SFPro-Black.ttf
           weight: 900
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
