@@ -1,0 +1,43 @@
+name: music_player_app
+description: A Dribbble chalenge
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0-109.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SFPro
+      fonts:
+        - asset: assets/fonts/SFPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/SFPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/SFPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/SFPro-Semibold.ttf
+          weight: 600
+        - asset: assets/fonts/SFPro-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/SFPro-Heavy.ttf
+          weight: 800
+        - asset: assets/fonts/SFPro-Black.ttf
+          weight: 900
