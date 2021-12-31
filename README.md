@@ -1,4 +1,4 @@
-# Music Player Application 🎹🎸
+# Music Player Application 🎧🎷
 
 The objective 🎯 is to code this **[model](https://dribbble.com/shots/15415867-CapWay-Redesign-Mobile-Banking-App)**
 
