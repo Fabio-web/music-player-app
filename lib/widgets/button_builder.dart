@@ -33,7 +33,7 @@ class ButtonBuilder extends StatelessWidget {
     return TextButton(
       onPressed: onPressed ?? () {},
       child: Container(
-        padding: EdgeInsets.symmetric(vertical: paddingVertical ?? 15),
+        padding: EdgeInsets.symmetric(vertical: paddingVertical ?? 16),
         width: width ?? widthQuery,
         child: Wrap(
           alignment: WrapAlignment.center,
